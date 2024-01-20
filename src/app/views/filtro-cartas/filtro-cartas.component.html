@@ -1,0 +1,18 @@
+<div class="col-md-3">
+  <select class="form-select" aria-label="Default select example" (input)="SearchByRace($event)" >
+    <option selected value="0">Seleccionar</option>
+    <option *ngFor="let race of races" value="{{ race.id }}">
+      {{ race.name }}
+    </option>
+  </select>
+</div>
+
+
+<div class="col-md-3">
+  <select class="form-select" aria-label="Default select example" (input)="SearchByType($event)" >
+    <option selected value="0">Seleccionar</option>
+    <option *ngFor="let type of types" value="{{ type.id }}">
+      {{ type.name }}
+    </option>
+  </select>
+</div>

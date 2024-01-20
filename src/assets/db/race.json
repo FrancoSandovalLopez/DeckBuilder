@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Caballero"
+    },
+    {
+        "id": 2,
+        "name": "Faeri"
+    },
+    {
+        "id": 3,
+        "name": "Dragon"
+    },
+    {
+        "id": 4,
+        "name": "Heroe"
+    },
+    {
+        "id": 5,
+        "name": "Olimpico"
+    },
+    {
+        "id": 6,
+        "name": "Titan"
+    },
+    {
+        "id": 7,
+        "name": "Desafiante"
+    },
+    {
+        "id": 8,
+        "name": "Defensor"
+    },
+    {
+        "id": 9,
+        "name": "Sombra"
+    },
+    {
+        "id": 10,
+        "name": "Sacerdote"
+    },
+    {
+        "id": 11,
+        "name": "Faraon"
+    },
+    {
+        "id": 12,
+        "name": "Eterno"
+    }
+]

@@ -1,0 +1,32 @@
+<div class="row">
+  <div class="card shadow-sm">
+    <div class="card-body">
+      <input type="text" class="form-control" (input)="onSearchCard($event)" />
+    </div>
+  </div>
+</div>
+<br />
+<div class="row">
+  <div class="card shadow-sm">
+    <div class="card-body">
+      <app-filtro-cartas></app-filtro-cartas>
+    </div>
+  </div>
+</div>
+
+<br />
+<div class="row">
+  <div
+    class="col-md-3 d-flex justify-content-center"
+    style="margin-top: 20px"
+    *ngFor="let card of cards"
+  >
+    <div class="card shadow-lg"  >
+      <img
+        class="card-img-top mx-auto"
+        [src]="card.image"
+        
+      />
+    </div>
+  </div>
+</div>

@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "Vasallo"
+    },
+    {
+      "id": 2,
+      "name": "Cortesano"
+    },
+    {
+      "id": 3,
+      "name": "Real"
+    },
+    {
+      "id": 4,
+      "name": "Mega Real"
+    },
+    {
+      "id": 5,
+      "name": "Ultra Real"
+    },
+    {
+      "id": 6,
+      "name": "Legendaria"
+    },
+    {
+      "id": 7,
+      "name": "Secreta"
+    },
+    {
+      "id": 8,
+      "name": "Promocional"
+    }
+  ]

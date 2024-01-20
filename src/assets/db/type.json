@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Arma"
+    },
+    {
+        "id": 2,
+        "name": "Talisman"
+    },
+    {
+        "id": 3,
+        "name": "Oro"
+    },
+    {
+        "id": 4,
+        "name": "Aliado"
+    },
+    {
+        "id": 5,
+        "name": "Totem"
+    }
+]
